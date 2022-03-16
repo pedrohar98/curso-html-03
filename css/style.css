@@ -1,0 +1,20 @@
+body{
+    font-family: 'Oswald';
+    margin: 0;
+    padding: 0;
+    background-color: #15161b;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.logo h2{
+    color: #fff;
+    font-size: 30px;
+}
+
+.logo span{
+    color: #1a7993;
+}
