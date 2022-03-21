@@ -13,8 +13,48 @@ header{
 .logo h2{
     color: #fff;
     font-size: 30px;
-}
+}   
 
 .logo span{
     color: #1a7993;
+}
+
+.section-1{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.area-title h3{
+    color: #fff;
+    font-weight: normal;
+}
+
+.area-title a{
+    background-color: #1a7993;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px 60px;
+}
+
+.area-title a:hover{
+    background-color: #119ec5;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+
+
+.area-title h1{
+    color: #fff;
+    font-size: 45px;
+    line-height: 50px;
+    margin-top: -10px;
+}
+
+.image-1 img{
+    height: auto;
+    margin-left: 55px;
+    margin-top: 20px;
+    width: 460px;
 }
