@@ -36,6 +36,7 @@ header{
     display: inline-block;
     font-size: 20px;
     padding: 15px 60px;
+    text-transform: uppercase;
 }
 
 .area-title a:hover{
@@ -98,4 +99,44 @@ header{
 
 .card img{
     width: 65px;
+}
+
+/* SECTION-3 */
+.section-3{
+    background-color: #1a7993;
+    height: 342px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-left: ;
+}
+
+.image-2 img{
+    width: 280px;
+    height: auto;
+    margin-top: 5px;
+    margin-left: 100px;
+}
+
+.area-title-2 h1{
+    color: #fff;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.area-title-2 h3{
+    color: #fff;
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: -26px;
+}
+
+.area-title-2 a{
+     display: inline-block;
+     background-color: #fff;
+     padding: 20px 85px;
+     font-size: 19px;
+     font-weight: bold;
+     cursor: pointer;
 }
