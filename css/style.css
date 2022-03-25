@@ -109,7 +109,6 @@ header{
     justify-content: center;
     align-items: center;
     margin-bottom: 100px;
-    margin-left: ;
 }
 
 .image-2 img{
@@ -139,4 +138,48 @@ header{
      font-size: 19px;
      font-weight: bold;
      cursor: pointer;
+}
+
+/* AREA FORM */
+.area-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    flex-direction: column;
+}
+
+.area-form h2{
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+.formulario form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    }
+
+.formulario input{
+    font-family: 'Oswald';
+    margin-top: 20px;
+    height: 40px;
+    border: none;
+    outline: none;
+    padding-left: 10px;
+}
+
+.input::placeholder{
+    color: #000;
+    text-transform: uppercase;
+}
+
+input[type="submit"]{
+    background-color: #1a7993;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #fff;
+    height: 55px;
+    cursor: pointer;
 }
