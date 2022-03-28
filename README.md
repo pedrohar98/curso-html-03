@@ -1,6 +1,6 @@
 # README
 
-## PROJETO-SITE-O3
+## CURSO-HTML-O3
 
 - [Sobre:](#Sobre:)
 - [Referência:](#Referência:)
@@ -13,13 +13,13 @@ Desenvolvimento de landing page com HTML e CSS.
 Jefferson Vasconcellos: https://www.youtube.com/watch?v=EA7rYIdF_9g&t=15s
 
 ### Features:
-- [] Configuração Git Bash.
-- [] Desenvolimento do projeto.
-- [] Finalização do projeto.
+- [x] Configuração Git Bash.
+- [x] Desenvolimento do projeto.
+- [x] Finalização do projeto.
 - [] Configuração do gif.
 
 ---
 
 <h1 align="center">
-    <img alt="projeto-site-02" title="projeto-site-02" src="./components/gif/projeto-site-02.gif" style="display:none">
+    <img alt="curso-html-03" title="curso-html-03" src="./img/curso-html-03.gif">
 </h1>
