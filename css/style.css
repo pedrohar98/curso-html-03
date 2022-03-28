@@ -140,6 +140,10 @@ header{
      cursor: pointer;
 }
 
+.area-title-2 a:hover{
+    background-color: #e0e0e0;
+}
+
 /* AREA FORM */
 .area-form{
     display: flex;
@@ -182,6 +186,10 @@ input[type="submit"]{
     color: #fff;
     height: 55px;
     cursor: pointer;
+}
+
+input[type="submit"]:hover{
+    background-color: #119ec5;
 }
 
 /* FOOTER */
