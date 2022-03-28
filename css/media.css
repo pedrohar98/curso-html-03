@@ -1,0 +1,41 @@
+@media screen and (max-width: 760px){
+
+    section{
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+    
+    .section-1{
+        margin-top: 20px;
+    }
+
+    .image-1 img{
+        width: 400px;
+        height: auto;
+        margin: 40px auto;
+    }
+
+    .section-cards{
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .cards{
+        flex-direction: column;
+    }
+
+    .card{
+        margin: 5px auto;
+    }
+
+    .section-3{
+        height: auto;
+    }
+
+    .image-2 img{
+        margin: 30px auto;
+    }
+}
