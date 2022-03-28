@@ -16,7 +16,7 @@ Jefferson Vasconcellos: https://www.youtube.com/watch?v=EA7rYIdF_9g&t=15s
 - [x] Configuração Git Bash.
 - [x] Desenvolimento do projeto.
 - [x] Finalização do projeto.
-- [] Configuração do gif.
+- [x] Configuração do gif.
 
 ---
 
